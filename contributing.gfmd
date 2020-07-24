@@ -1,4 +1,4 @@
-# Contribution Guidelines
+# Contribution Guideline
 
 Please ensure your pull request adheres to the following guidelines:
 
@@ -6,15 +6,13 @@ Please ensure your pull request adheres to the following guidelines:
 - The entry should contain the title and author links, first publication year, rating, description and your personal commentary.
   - For books, please copy the description and rating from [Goodreads](https://goodreads.com) and link to the Goodreads entry.
   - For movies and TV shows, please copy the description and rating from [IMDb](https://www.imdb.com) and link to the IMDb entry.
-- Use the following format:
-
+- Use the followin
 ```
 [title](link) (year) *by [author](link)* [rating]
 
 Commentary - [@you](https://github.com/you)
 
-> Description
-```
+> Descr
 
 - Check your spelling and grammar.
 - Please add the entry in the correct section, in alphabetical order.
@@ -23,5 +21,4 @@ Commentary - [@you](https://github.com/you)
 - Start the description with a capital and end with a full stop/period.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
-- The pull request and commit should have a useful title.
-- Pull Requests without a personal comment will not be accepted until one is added.
+- The pull request and commit should have a useful titl will not be accepted until one is added.
